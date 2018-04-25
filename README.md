@@ -234,4 +234,4 @@ famous_cats.include?("Maru") #=> true
 * [Ruby Arrays on Zet Code](http://zetcode.com/lang/rubytutorial/arrays/)
 * [Ruby Arrays on Tutorials Point](http://www.tutorialspoint.com/ruby/ruby_arrays.htm)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/array-readme-qualifying' title='Introduction to Arrays'>Introduction to Arrays</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Introduction to Arrays</p>
